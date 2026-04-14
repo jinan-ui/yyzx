@@ -4,7 +4,7 @@
         <el-col :xs="{span:24,offset:0}" :sm="{span:8,offset:8}">
              <div style="text-align:center; margin-bottom:20px;" class="is-full-screen">
                 <img 
-                    src="/图标.png" 
+                    src="/tb.png" 
                     alt="logo" 
                     style="width:100px; height:100px; vertical-align:middle; margin-right:10px;">
                 <h1 style="display:inline-block; vertical-align:middle; font-size:26px;">东软颐养中心</h1>
